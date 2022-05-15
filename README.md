@@ -45,9 +45,12 @@ Desenvolvido como o primeiro desáfio do Ignite, oferecido pela [Rocketseat :roc
 
 O projeto utiliza as seguintes ferramentas:
 
-- [TypeScript][url-ts]
-- [React][url-react]
-- [NextJS][url-next]
+- [x] React Native
+  - [x] Linear Gradient
+  - [x] Vector Icons
+  - [x] IPhone X Helper
+- [x] Typescript
+- [x] Babel
 
 ## :electric_plug: Como usar?
 
